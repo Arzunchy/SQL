@@ -2,7 +2,7 @@
 
 A comprehensive reference covering both the theoretical foundations and practical SQL implementations of database keys. Understanding keys is fundamental to database design, normalization, and maintaining data integrity.
 
----
+----
 
 ## Table of Contents
 
