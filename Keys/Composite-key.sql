@@ -8,7 +8,7 @@ date Date,
 status varchar(20),
 remarks varchar(50),
 
-primary key (student_id,subject_id)
+primary key (student_id,subject_id) -- primary key
 );
 INSERT INTO attendance VALUES
 (1, 101, '2024-01-01', 'Present', '-'),
