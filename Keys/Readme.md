@@ -168,7 +168,7 @@ CREATE TABLE products (
     product_id  INT PRIMARY KEY,
     name        VARCHAR(100),
     category    VARCHAR(50),
-    price       DECIMAL(10, 2)
+    price       DECIMAL(10,2)
 );
 
 -- Secondary key implemented as a non-unique index
